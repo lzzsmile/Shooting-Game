@@ -1,4 +1,6 @@
 # Shooting Game
+Using Java Swing for this graphical user interface (GUI) development.
+
 Full game engine to incorporate all features in the game, including asset rendering, dialogs, player actions, menu systems, statistics, and music integration, etc.
 
 Screenshot of the game is shown below:
